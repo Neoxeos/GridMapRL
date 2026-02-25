@@ -42,7 +42,23 @@ class RL
 
     learningIteration()
     {
-        
+
     }
 
+    selectActionFomPolicy()
+    {
+        let maxValueActionIndex = 0;
+
+
+        return maxValueActionIndex;
+    }
+
+    updateValue(state, action, reward, nextState)
+    {
+
+    }
+
+    updatePolicy(state)
+    {
+    }
 }
