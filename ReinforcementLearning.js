@@ -60,5 +60,5 @@ class RL
 
     updatePolicy(state)
     {
-    }
+    } 
 }
